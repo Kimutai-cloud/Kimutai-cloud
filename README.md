@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [a website called airease](https://airease.store/)
 
-- 🌱 I’m currently learning **Data Science and Machine learning**
+- 🌱 I’m currently learning **Mass Transit with Rabbitmq**
 
 - 👯 I’m looking to collaborate on [a Facial recognition application](https://github.com/Kimutai-cloud/FaceRecog.git)
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **Kevin.kim0306@gmail.com**
+- 📫 How to reach me **Kimutaikevink@gmail.com**
 
 - 📄 Know about my experiences [resume.com](resume.com)
 
