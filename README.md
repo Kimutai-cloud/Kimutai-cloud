@@ -2,19 +2,15 @@
 <h3 align="center">Made in Nairobi, Kenya</h3>
 
 
-- 🔭 I’m currently working on [a website called airease](https://airease.store/)
-
 - 🌱 I’m currently learning **Mass Transit with Rabbitmq**
 
-- 👯 I’m looking to collaborate on [a Facial recognition application](https://github.com/Kimutai-cloud/FaceRecog.git)
-
+- 👯 I’m looking to collaborate on [an Ddos analysis application]
 - 🤝 I’m looking for help with [building a 3D racing game using only python](https://github.com/Kimutai-cloud/sf_rally_drifting_game.git)
 
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **Kimutaikevink@gmail.com**
 
-- 📄 Know about my experiences [resume.com](resume.com)
 
 - ⚡ Fun fact **The term "bug" to describe a computer program error has an interesting origin. In 1947, Grace Hopper, an American computer scientist, found an actual moth causing a malfunction in the Harvard Mark II computer. She taped the moth in the logbook and wrote, "First actual case of bug being found." From then on, the term "bug" became widely used in the context of computer programming to refer to any glitch or error in the code.**
 
