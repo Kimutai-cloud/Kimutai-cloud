@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin Korir</h1>
 <h3 align="center">Made in Nairobi, Kenya</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kimutai-cloud" alt="kimutai-cloud" /></a> </p>
 
 - 🔭 I’m currently working on [a website called airease](https://airease.store/)
 
