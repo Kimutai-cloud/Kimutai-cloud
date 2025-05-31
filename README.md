@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin Korir</h1>
 <h3 align="center">Made in Nairobi, Kenya</h3>
 
-
-- 🌱 I’m currently learning **Mass Transit with Rabbitmq**
-
-- 👯 I’m looking to collaborate on [an Ddos analysis application]
-- 🤝 I’m looking for help with [building a 3D racing game using only python](https://github.com/Kimutai-cloud/sf_rally_drifting_game.git)
-
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **Kimutaikevink@gmail.com**
